@@ -19,15 +19,11 @@ Log Analysis Portal is an AI-powered web application built with Streamlit that e
 📌 Technologies Used
 
 Python
-
 Streamlit (UI Framework)
-
 LLaMA 3.2 (AI Model for Summarization)
-
+Ollama (Runs LLaMA 3.2 locally)
 Sentence Transformers (Text Embeddings)
-
 Subprocess & Threading (For backend efficiency)
-
 Chardet (Encoding Detection)
 
 🛠 Installation & Setup

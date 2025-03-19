@@ -50,17 +50,6 @@ Run the Application
 
 streamlit run Log-Analysis-Portal.py
 
-📂 Folder Structure
-
-LOGANALYSISPORTAL/
-│── env/                        # Virtual Environment (Ignored)
-│── application_crashes.txt      # Sample Log File
-│── database_logs.txt            # Sample Log File
-│── Log_Analysis_Portal.jpg      # Application Image
-│── Log-Analysis-Portal.py       # Main Python Script
-│── network_latency.txt          # Sample Log File
-│── requirements.txt.txt         # Dependencies File (Rename to requirements.txt)
-│── security_logs.txt            # Sample Log File
 
 🔗 Connect With Me
 

@@ -64,9 +64,9 @@ LOGANALYSISPORTAL/
 
 🔗 Connect With Me
 
-🌍 GitHub: your-repo
+🌍 GitHub:https://github.com/rajeshbakthavachalam/log-analysis-portal/
 
-💼 LinkedIn: your-profile
+💼 LinkedIn: https://www.linkedin.com/in/rajesh-b-a120a824/
 
 📌 Feel free to contribute! Fork the repo, submit issues, or make pull requests. 🚀
 

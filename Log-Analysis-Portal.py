@@ -22,7 +22,7 @@ embedder = SentenceTransformer('all-MiniLM-L6-v2', device="cpu")
 
 # Sidebar for navigation
 st.sidebar.title("Navigation 🧭")
-st.sidebar.markdown("[GitHub Repo](https://github.com/your-repo) | [LinkedIn](https://linkedin.com/in/your-profile)")
+st.sidebar.markdown("[GitHub Repo](https://github.com/rajeshbakthavachalam/log-analysis-portal/) | [LinkedIn](https://www.linkedin.com/in/rajesh-b-a120a824/)")
 st.sidebar.info("Upload logs, ask questions, and analyze logs efficiently.")
 
 # Function to run LLaMA 3.2 query
@@ -92,4 +92,4 @@ if file_content is not None:
 
 # Footer
 st.markdown("---")
-st.markdown("🔗 **Stay Connected:** [GitHub](https://github.com/your-repo) | [LinkedIn](https://linkedin.com/in/your-profile)")
+st.markdown("🔗 **Stay Connected:** [GitHub](https://github.com/rajeshbakthavachalam/log-analysis-portal/) | [LinkedIn](https://www.linkedin.com/in/rajesh-b-a120a824/)")

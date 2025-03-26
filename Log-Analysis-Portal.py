@@ -12,7 +12,7 @@ from PIL import Image
 st.set_page_config(page_title="Log Analysis Portal", page_icon="🤖", layout="wide")
 
 # Load and display a banner image
-st.image("https://raw.githubusercontent.com/your-repo/banner.png", use_column_width=True)
+#st.image("https://raw.githubusercontent.com/rajeshbakthavachalam/log-analysis-portal/main/Log_Analysis_Portal.jpg", use_column_width=True)
 
 # Constants
 MAX_FILE_SIZE = 200 * 1024 * 1024
